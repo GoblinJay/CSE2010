@@ -1,0 +1,26 @@
+C++ Basic Input & Output:
+Library for I/O: The C++ library for basic input and output is <iostream>. You should be familiar with using std::cout for output and std::cin for input.
+C++ Variables (int, double, char, string):
+Data Types: Understand when to use int, double, char, and string to represent different types of values.
+Variable Declaration: Know how to declare variables in C++.
+Restrictions: Be aware of any restrictions or rules for variable declarations and definitions.
+Control Flow:
+if-else statements: Understand how to use conditional statements to make decisions.
+Loops: Be familiar with while, for, do-while loops, and how to use them effectively.
+Relational and Boolean Operators: Know how to use relational and boolean operators in conditional statements.
+Nested Loops: Understand how to use nested loops for more complex control flow.
+Functions:
+Function Definition: Know how to define a function, including its return type, name, and parameters.
+Function Invocation: Understand how to call functions that you've defined.
+Procedure vs. Function: Be able to distinguish between procedures and functions and when to use each.
+Pass by Value vs. Pass by Reference: Know the difference between these parameter passing methods and when to use one over the other.
+Classes:
+Class and Object Relationship: Understand what a class and an object are and how they relate to each other.
+Defining a Class: Know how to define a class, its member functions, and use it in your code.
+Access Modifiers: Be aware of private, public, and protected access modifiers in classes.
+Class Data Members and Member Functions: Understand the concept of data members and member functions in a class.
+Constructors and Destructors: Know what constructors and destructors are and how to use them in a class.
+Exam Format:
+Be prepared for multiple-choice, true or false, short answer, and fill-in-the-code questions.
+Review Homework and Labs: Carefully review and understand the exercises and problems from Homework 1 and Homework 2, as well as programming exercises from Labs 1-5.
+Programming: Be ready to write out full programs from scratch. This might involve solving specific programming problems or exercises. Review lecture examples and programming problems from your homework for practice.
